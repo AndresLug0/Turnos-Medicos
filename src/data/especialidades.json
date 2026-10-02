@@ -1,0 +1,122 @@
+[
+ {
+  "especialidadid": 1,
+  "nombreespecialidad": "Cardiologia",
+  "activa": true
+ },
+
+ {
+  "especialidadid": 2,
+  "nombreespecialidad": "Dermatologia",
+  "activa": true
+ },
+
+ {
+  "especialidadid": 3,
+  "nombreespecialidad": "Pediatria",
+  "activa": true
+ },
+
+ {
+  "especialidadid": 4,
+  "nombreespecialidad": "Neurologia",
+  "activa": true
+ },
+
+ {
+  "especialidadid": 5,
+  "nombreespecialidad": "Ginecologia",
+  "activa": true
+},
+
+{
+  "especialidadid": 6,
+  "nombreespecialidad": "Traumatologia",
+  "activa": true
+},
+
+{
+  "especialidadid": 7,
+  "nombreespecialidad": "Oftalmologia",
+  "activa": true
+},
+
+{
+  "especialidadid": 8,
+  "nombreespecialidad": "Otorrinolaringologia",
+  "activa": true
+},
+
+{
+  "especialidadid": 9,
+  "nombreespecialidad": "Gastroenterologia",
+  "activa": true
+},
+
+{
+  "especialidadid": 10,
+  "nombreespecialidad": "Neumonologia",
+  "activa": true
+},
+
+{
+  "especialidadid": 11,
+  "nombreespecialidad": "Psiquiatria",
+  "activa": true
+},
+
+{
+  "especialidadid": 12,
+  "nombreespecialidad": "Endocrinologia",
+  "activa": true
+},
+
+{
+  "especialidadid": 13,
+  "nombreespecialidad": "Urologia",
+  "activa": true
+},
+
+{
+  "especialidadid": 14,
+  "nombreespecialidad": "Oncologia",
+  "activa": true
+},
+
+{
+  "especialidadid": 15,
+  "nombreespecialidad": "Nefrologia",
+  "activa": true
+},
+
+{
+  "especialidadid": 16,
+  "nombreespecialidad": "Reumatologia",
+  "activa": true
+},
+
+{
+  "especialidadid": 17,
+  "nombreespecialidad": "Infectologia",
+  "activa": true
+},
+
+{
+  "especialidadid": 18,
+  "nombreespecialidad": "Hematologia",
+  "activa": true
+},
+
+{
+  "especialidadid": 19,
+  "nombreespecialidad": "Medicina Interna",
+  "activa": true
+},
+
+{
+  "especialidadid": 20,
+  "nombreespecialidad": "Alergologia",
+  "activa": true
+}
+
+]

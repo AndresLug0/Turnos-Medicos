@@ -1,0 +1,182 @@
+[
+  {
+    "medicoid": 1,
+    "nombremedico": "Alejandro Morales",
+    "nombreespecialidad": "Cardiologia",
+    "activo": true
+  },
+  {
+    "medicoid": 2,
+    "nombremedico": "Sofía Benítez",
+    "nombreespecialidad": "Dermatologia",
+    "activo": true
+  },
+  {
+    "medicoid": 3,
+    "nombremedico": "Mateo Rossi",
+    "nombreespecialidad": "Pediatria",
+    "activo": true
+  },
+  {
+    "medicoid": 4,
+    "nombremedico": "Valentina Gómez",
+    "nombreespecialidad": "Neurologia",
+    "activo": true
+  },
+  {
+    "medicoid": 5,
+    "nombremedico": "Lucía Fernández",
+    "nombreespecialidad": "Ginecologia",
+    "activo": true
+  },
+  {
+    "medicoid": 6,
+    "nombremedico": "Nicolás Bianchi",
+    "nombreespecialidad": "Traumatologia",
+    "activo": true
+  },
+  {
+    "medicoid": 7,
+    "nombremedico": "Gabriel Torres",
+    "nombreespecialidad": "Oftalmologia",
+    "activo": true
+  },
+  {
+    "medicoid": 8,
+    "nombremedico": "Camila Navarro",
+    "nombreespecialidad": "Otorrinolaringologia",
+    "activo": true
+  },
+  {
+    "medicoid": 9,
+    "nombremedico": "Joaquín Pereyra",
+    "nombreespecialidad": "Gastroenterologia",
+    "activo": true
+  },
+  {
+    "medicoid": 10,
+    "nombremedico": "Mariana Silva",
+    "nombreespecialidad": "Neumonologia",
+    "activo": true
+  },
+  {
+    "medicoid": 11,
+    "nombremedico": "Esteban Domínguez",
+    "nombreespecialidad": "Psiquiatria",
+    "activo": true
+  },
+  {
+    "medicoid": 12,
+    "nombremedico": "Paula Romero",
+    "nombreespecialidad": "Endocrinologia",
+    "activo": true
+  },
+  {
+    "medicoid": 13,
+    "nombremedico": "Santiago Acosta",
+    "nombreespecialidad": "Urologia",
+    "activo": true
+  },
+  {
+    "medicoid": 14,
+    "nombremedico": "Claudia Méndez",
+    "nombreespecialidad": "Oncologia",
+    "activo": true
+  },
+  {
+    "medicoid": 15,
+    "nombremedico": "Javier Gutiérrez",
+    "nombreespecialidad": "Nefrologia",
+    "activo": true
+  },
+  {
+    "medicoid": 16,
+    "nombremedico": "Florencia Castro",
+    "nombreespecialidad": "Reumatologia",
+    "activo": true
+  },
+  {
+    "medicoid": 17,
+    "nombremedico": "Diego Medina",
+    "nombreespecialidad": "Infectologia",
+    "activo": true
+  },
+  {
+    "medicoid": 18,
+    "nombremedico": "Valeria Ortíz",
+    "nombreespecialidad": "Hematologia",
+    "activo": true
+  },
+  {
+    "medicoid": 19,
+    "nombremedico": "Andrés Lugo",
+    "nombreespecialidad": "Medicina Interna",
+    "activo": true
+  },
+  {
+    "medicoid": 20,
+    "nombremedico": "Romina Suárez",
+    "nombreespecialidad": "Alergologia",
+    "activo": true
+  },
+  {
+    "medicoid": 21,
+    "nombremedico": "Lucas Espósito",
+    "nombreespecialidad": "Cardiologia",
+    "activo": true
+  },
+  {
+    "medicoid": 22,
+    "nombremedico": "Martina Ruiz",
+    "nombreespecialidad": "Dermatologia",
+    "activo": true
+  },
+  {
+    "medicoid": 23,
+    "nombremedico": "Tomás Herrera",
+    "nombreespecialidad": "Pediatria",
+    "activo": true
+  },
+  {
+    "medicoid": 24,
+    "nombremedico": "Julieta Vega",
+    "nombreespecialidad": "Neurologia",
+    "activo": true
+  },
+  {
+    "medicoid": 25,
+    "nombremedico": "Natalia Ríos",
+    "nombreespecialidad": "Ginecologia",
+    "activo": true
+  },
+  {
+    "medicoid": 26,
+    "nombremedico": "Gonzalo Peralta",
+    "nombreespecialidad": "Traumatologia",
+    "activo": true
+  },
+  {
+    "medicoid": 27,
+    "nombremedico": "Fernando Iglesias",
+    "nombreespecialidad": "Oftalmologia",
+    "activo": true
+  },
+  {
+    "medicoid": 28,
+    "nombremedico": "Beatriz Cabrera",
+    "nombreespecialidad": "Otorrinolaringologia",
+    "activo": true
+  },
+  {
+    "medicoid": 29,
+    "nombremedico": "Hugo Molina",
+    "nombreespecialidad": "Gastroenterologia",
+    "activo": true
+  },
+  {
+    "medicoid": 30,
+    "nombremedico": "Elena Ramos",
+    "nombreespecialidad": "Psiquiatria",
+    "activo": true
+  }
+]
